@@ -9,7 +9,7 @@ A modern, responsive portfolio website to showcase my skills, experience, and pr
 
 ![Demo Preview](/public/image.png)
 
-Visit the live portfolio: [sanchitmishra.com](https://sanchitmishra.com)
+Visit the live portfolio: [iamsanchitmishra.netlify.app](https://iamsanchitmishra.netlify.app/)
 
 ---
 
