@@ -1,6 +1,6 @@
 
 import './App.css'
-import AboutMeMain from './components/aboutMeSection/aboutMeMain'
+import AboutMeMain from './components/aboutMeSection/AboutMeMain'
 import HeroGradient from './components/heroSection/HeroGradient'
 import HeroMain from './components/heroSection/HeroMain'
 import NavbarMain from './components/navbar/NavbarMain'
